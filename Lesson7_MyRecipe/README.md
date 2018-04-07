@@ -13,7 +13,7 @@ Web Application Development
 ( Using Java Script to complete diffrent types of animation and to make it easier we used Jquery.  )
 
 ### View Project Online:
-(https://hunterv54.github.io/lesson7_jquery/) 
+(.)
 
 ### Lessons Learned in the Assignment:
 1. (Jquery animation .)
